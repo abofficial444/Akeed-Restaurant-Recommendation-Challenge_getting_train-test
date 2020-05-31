@@ -1,2 +1,2 @@
-# Akeelah_sample_submission_file
+# Akeed Restaurant Recommendation Challenge_sample_submission_file
 A brief notebook on getting the train and test set.
