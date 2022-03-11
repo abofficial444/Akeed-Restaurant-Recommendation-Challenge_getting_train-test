@@ -1,3 +1,3 @@
 # Akeed Restaurant Recommendation Challenge_sample_data preparation
-A brief notebook on getting the train and test set.
+A notebook to get train and test set.
 Zindi Africa Recommendation Challenge
