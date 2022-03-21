@@ -1,3 +1,3 @@
-# Akeed Restaurant Recommendation Challenge_sample_data preparation
+# Akeed Restaurant Recommendation Challenge. A sample data preparation
 A notebook to get train and test set.
 Zindi Africa Recommendation Challenge
